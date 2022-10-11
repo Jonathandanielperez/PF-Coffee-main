@@ -4,6 +4,10 @@
 <img src="‪C:\Users\User\Pictures\Saved Pictures\Coffee1.jpeg"/>
 <img src="‪C:\Users\User\Pictures\Saved Pictures\Coffee2.jpeg"/>
 
+##pro
+
+Queremos desarrollar una página que permita dar fluidez y eficiencia en la toma de pedidos y su administración. Siendo ayuda tanto para el cliente como para el administrador del local. El cliente podrá ver la carta y de acuerdo a ella ir eligiendo de forma dinámica los productos a consumir,mediante un carrito de comprars y su medio de pago (Mercado Pago). El administrador del local podrá gestionar movimiento de caja y stock. Coffee`s Orders está orientado a satisfacer las necesidades de las cafeterías suscritas a nuestra aplicación ya sus clientes. Utilizamos herramientas como React, Redux, Sequelize entre otras.
+
 ## Objetivos del Proyecto
 
 - Construir una App utlizando React, Redux, Node y Prisma entre otras.
