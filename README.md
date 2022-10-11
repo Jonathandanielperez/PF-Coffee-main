@@ -1,8 +1,8 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)<img height="200" src="client/src/assets/logo_coffee.png" />
 
 # __Grupal Project - Henry Coffee's Orders__
-<img src="‪C:\Users\User\Pictures\Saved Pictures\Coffee1.jpeg"/>
-<img src="‪C:\Users\User\Pictures\Saved Pictures\Coffee2.jpeg"/>
+<img src=""/>
+<img src=""/>
 
 ## Proyecto Full Stack de un e-commerce para una cafeteria.
 
@@ -112,3 +112,4 @@ El contenido de `client` fue creado usando: Create React App.
 - [ ] Nodemailer
 - [ ] MercadoPago
 
+Pueses acceder a la pagina con el siguiente link  <a href="https://coffeemainapp.vercel.app/">Coffee`s Order</a>
