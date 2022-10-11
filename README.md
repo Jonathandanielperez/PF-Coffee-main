@@ -2,7 +2,7 @@
 
 # __Grupal Project - Henry Coffee's Orders__
 <img src="https://github.com/Jonathandanielperez/PF-Coffee-main/blob/developer/client/src/assets/Coffee1.jpeg"/>
-<img src=""/>
+<img src="https://github.com/Jonathandanielperez/PF-Coffee-main/blob/developer/client/src/assets/Coffee2.jpeg"/>
 
 ## Proyecto Full Stack de un e-commerce para una cafeteria.
 
