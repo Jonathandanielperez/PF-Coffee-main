@@ -1,7 +1,7 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)<img height="200" src="client/src/assets/logo_coffee.png" />
 
 # __Grupal Project - Henry Coffee's Orders__
-<img src=""/>
+<img src="https://github.com/Jonathandanielperez/PF-Coffee-main/blob/developer/client/src/assets/Coffee1.jpeg"/>
 <img src=""/>
 
 ## Proyecto Full Stack de un e-commerce para una cafeteria.
